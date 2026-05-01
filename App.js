@@ -108,15 +108,15 @@ if (loading) {
 }
 if (errorMsg) {
   return (
-    <View style={styles.loadingError}>
-      <Text>{errorMsg}</Text>
+    <View style={styles.loading}>
+      <Text style={styles.loadingError}>{errorMsg}</Text>
     </View>
   );
 }
 if (!airQuality) {
   return (
-    <View style={styles.loadingError}>
-      <Text>Brak danych o jakości powietrza</Text>
+    <View style={styles.loading}>
+      <Text style={styles.loadingError}>Brak danych o jakości powietrza</Text>
     </View>
   );
 }
