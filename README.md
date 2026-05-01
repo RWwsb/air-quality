@@ -4,7 +4,7 @@ Aplikacja wyświetla aktualne dane jakości powietrza w lokalizacji użytkownika
 
 ## Dane z urzadzenia
 Aplikacja korzysta z GPS poprzez 'expo location'.
-Pobiera dane takie jak:
+</br>Pobiera dane takie jak:
 - szerokość geograficzna,
 - długość geograficzna,
 - nazwa miasta
