@@ -12,7 +12,7 @@ Dane są wyświetlane po uruchomieniu aplikacji oraz udzieleniu zgody na dostep 
 
 ## API
 Do realizacji zadania wykorzystano publiczne API Open-Meteo Air Quality API
-Endpoint: https://air-quality-api.open-meteo.com/v1/air-quality
+</br>Endpoint: https://air-quality-api.open-meteo.com/v1/air-quality
 Parametry endpointu:
 - latitude,
 - longitude
