@@ -51,5 +51,6 @@ Parametry endpointu:
 - Problemy layoutowe (poprawne wyświetlenie danych)
 - Brak danych dla niektórych lokalizacji (usunieto z wyboru)
 - Brak trybu offline
-- Crash aplikacji przy zbyt szybkim wybieraniu miast (naprawiono ustawiając za każdym razem na null przy zmianie) 
+- Crash aplikacji przy zbyt szybkim wybieraniu miast (naprawiono ustawiając za każdym razem na null przy zmianie)
+- Problemy z odpowiednym pobieraniem danych do porównania miast
 <img width="457" height="904" alt="IMG_20260501_145509" src="https://github.com/user-attachments/assets/fe5364c8-34ff-4e1c-93fe-d8a5af658bba" />
