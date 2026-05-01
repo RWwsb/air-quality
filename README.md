@@ -1,6 +1,6 @@
 # Air Quality - 4.2 Jakość powietrza w miejscu użytkownika
 ## Aplikacja
-Aplikacja wyświetla aktualne dane jakości powietrza w lokalizacji użytkownika oraz umożliwia porównanie jej z innymi miastami.
+Aplikacja wyświetla aktualne dane jakości powietrza w lokalizacji użytkownika oraz umożliwia porównanie jej z innymi miastami. (Została testowana poprzez Expo Go)
 
 ## Dane z urzadzenia
 Aplikacja korzysta z GPS poprzez 'expo location'.
